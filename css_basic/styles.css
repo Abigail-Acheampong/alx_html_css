@@ -1,5 +1,6 @@
 body{display:flex;
  flex-direction: column;
+ background:#ffe4e1;
  }
 
 main{
@@ -12,4 +13,9 @@ article{
 }
 aside{
  flex:1;
+}
+.logo{
+ font: size 2em;
+ color:#0077cc;
+ margin-right: 20px;
 }
